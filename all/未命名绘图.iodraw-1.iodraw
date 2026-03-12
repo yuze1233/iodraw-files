@@ -15,6 +15,9 @@
         <mxCell id="ceMZxPwoTSRZpcFIlL5c-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ceMZxPwoTSRZpcFIlL5c-0" target="ceMZxPwoTSRZpcFIlL5c-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ceMZxPwoTSRZpcFIlL5c-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ceMZxPwoTSRZpcFIlL5c-0" target="ceMZxPwoTSRZpcFIlL5c-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ceMZxPwoTSRZpcFIlL5c-0" value="pdf英文词库系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="260" y="170" width="120" height="60" as="geometry" />
         </mxCell>
@@ -26,6 +29,9 @@
         </mxCell>
         <mxCell id="ceMZxPwoTSRZpcFIlL5c-3" value="系统管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="414" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ceMZxPwoTSRZpcFIlL5c-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
