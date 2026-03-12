@@ -79,7 +79,7 @@
         <mxCell id="ceMZxPwoTSRZpcFIlL5c-38" value="pdf文档单词全局统计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="447" y="368" width="26" height="109" as="geometry" />
         </mxCell>
-        <mxCell id="ceMZxPwoTSRZpcFIlL5c-39" value="单词库的管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ceMZxPwoTSRZpcFIlL5c-39" value="单词库管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="486" y="368" width="26" height="109" as="geometry" />
         </mxCell>
         <mxCell id="ceMZxPwoTSRZpcFIlL5c-40" value="文档上传系统设置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
