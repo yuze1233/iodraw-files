@@ -29,19 +29,19 @@
           <mxGeometry x="382" y="657" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ceMZxPwoTSRZpcFIlL5c-17" value="单词精确与模糊搜索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="260" y="370" width="120" height="30" as="geometry" />
+          <mxGeometry x="233" y="607" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ceMZxPwoTSRZpcFIlL5c-18" value="文档筛查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="260" y="410" width="120" height="30" as="geometry" />
+          <mxGeometry x="233" y="647" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ceMZxPwoTSRZpcFIlL5c-21" value="文档处理状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="382" y="697" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ceMZxPwoTSRZpcFIlL5c-22" value="查询结果展示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="260" y="450" width="120" height="30" as="geometry" />
+          <mxGeometry x="233" y="687" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ceMZxPwoTSRZpcFIlL5c-23" value="搜索统计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="260" y="490" width="120" height="30" as="geometry" />
+          <mxGeometry x="233" y="727" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ceMZxPwoTSRZpcFIlL5c-24" value="pdf文档单词全局统计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="420" y="370" width="120" height="30" as="geometry" />
@@ -63,6 +63,9 @@
         </mxCell>
         <mxCell id="ceMZxPwoTSRZpcFIlL5c-33" value="文档处理状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="189" y="368" width="26" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="ceMZxPwoTSRZpcFIlL5c-34" value="文档处理状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="199" y="378" width="26" height="109" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
