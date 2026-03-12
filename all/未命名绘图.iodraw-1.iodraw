@@ -60,6 +60,9 @@
         <mxCell id="ceMZxPwoTSRZpcFIlL5c-24" value="pdf文档单词全局统计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="420" y="370" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ceMZxPwoTSRZpcFIlL5c-25" value="pdf文档单词全局统计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="430" y="380" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
