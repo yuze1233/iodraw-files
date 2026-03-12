@@ -33,7 +33,7 @@
         <mxCell id="ceMZxPwoTSRZpcFIlL5c-11" value="pdf上传" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="90" y="370" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ceMZxPwoTSRZpcFIlL5c-12" value="批量处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ceMZxPwoTSRZpcFIlL5c-12" value="pdf的批量处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="90" y="410" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ceMZxPwoTSRZpcFIlL5c-13" value="文档列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
