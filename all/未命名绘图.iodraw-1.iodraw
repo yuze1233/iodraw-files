@@ -76,6 +76,15 @@
         <mxCell id="ceMZxPwoTSRZpcFIlL5c-37" value="搜索统计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="356" y="368" width="26" height="109" as="geometry" />
         </mxCell>
+        <mxCell id="ceMZxPwoTSRZpcFIlL5c-38" value="搜索统计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="447" y="368" width="26" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="ceMZxPwoTSRZpcFIlL5c-39" value="搜索统计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="486" y="368" width="26" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="ceMZxPwoTSRZpcFIlL5c-40" value="搜索统计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="496" y="378" width="26" height="109" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
