@@ -27,8 +27,14 @@
         <mxCell id="ceMZxPwoTSRZpcFIlL5c-1" value="文档管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="90" y="280" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ceMZxPwoTSRZpcFIlL5c-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ceMZxPwoTSRZpcFIlL5c-2" target="ceMZxPwoTSRZpcFIlL5c-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ceMZxPwoTSRZpcFIlL5c-2" value="单词检索模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="260" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ceMZxPwoTSRZpcFIlL5c-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ceMZxPwoTSRZpcFIlL5c-3" target="ceMZxPwoTSRZpcFIlL5c-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ceMZxPwoTSRZpcFIlL5c-3" value="系统管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="420" y="280" width="120" height="60" as="geometry" />
@@ -37,7 +43,7 @@
           <mxGeometry x="90" y="370" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ceMZxPwoTSRZpcFIlL5c-12" value="pdf的批量处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="90" y="410" width="120" height="30" as="geometry" />
+          <mxGeometry x="90" y="400" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ceMZxPwoTSRZpcFIlL5c-13" value="文档列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="90" y="450" width="120" height="30" as="geometry" />
