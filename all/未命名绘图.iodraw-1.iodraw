@@ -20,10 +20,10 @@
           <mxGeometry x="40" y="370" width="27" height="105" as="geometry" />
         </mxCell>
         <mxCell id="ceMZxPwoTSRZpcFIlL5c-12" value="pdf的批量处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="92" y="511" width="26" height="109" as="geometry" />
+          <mxGeometry x="80" y="368" width="26" height="109" as="geometry" />
         </mxCell>
         <mxCell id="ceMZxPwoTSRZpcFIlL5c-13" value="文档列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="382" y="617" width="120" height="30" as="geometry" />
+          <mxGeometry x="69" y="564" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ceMZxPwoTSRZpcFIlL5c-16" value="文档删除" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="382" y="657" width="120" height="30" as="geometry" />
@@ -54,6 +54,9 @@
         </mxCell>
         <mxCell id="ceMZxPwoTSRZpcFIlL5c-27" value="数据的维护和备份" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="420" y="490" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ceMZxPwoTSRZpcFIlL5c-31" value="pdf的批量处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="90" y="378" width="26" height="109" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
