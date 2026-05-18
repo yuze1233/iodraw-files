@@ -231,6 +231,18 @@
         <mxCell id="-5R-fFn_3Nw0uanpRcGq-4" value="pdf_documents" style="swimlane;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="225" y="776" width="200" height="200" as="geometry" />
         </mxCell>
+        <mxCell id="-5R-fFn_3Nw0uanpRcGq-5" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="85" y="696" width="480" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="-5R-fFn_3Nw0uanpRcGq-6" value="Lane 1" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="-5R-fFn_3Nw0uanpRcGq-5">
+          <mxGeometry x="20" width="460" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-5R-fFn_3Nw0uanpRcGq-7" value="Lane 2" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="-5R-fFn_3Nw0uanpRcGq-5">
+          <mxGeometry x="20" y="120" width="460" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-5R-fFn_3Nw0uanpRcGq-8" value="Lane 3" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="-5R-fFn_3Nw0uanpRcGq-5">
+          <mxGeometry x="20" y="240" width="460" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
