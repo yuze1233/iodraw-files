@@ -16,10 +16,10 @@
         <mxCell id="ceMZxPwoTSRZpcFIlL5c-3" value="系统管理模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="450" y="278" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ceMZxPwoTSRZpcFIlL5c-11" value="pdf文件上传" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="ceMZxPwoTSRZpcFIlL5c-11" value="pdf文件" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="40" y="368" width="27" height="107" as="geometry" />
         </mxCell>
-        <mxCell id="ceMZxPwoTSRZpcFIlL5c-12" value="pdf的批量处理" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="ceMZxPwoTSRZpcFIlL5c-12" value="批量处理" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="80" y="368" width="26" height="109" as="geometry" />
         </mxCell>
         <mxCell id="ceMZxPwoTSRZpcFIlL5c-13" value="文档列表" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
