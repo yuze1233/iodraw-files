@@ -218,6 +218,9 @@
             <mxPoint x="363" y="352" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="-5R-fFn_3Nw0uanpRcGq-2" value="日志监控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="548" y="368" width="26" height="109" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
