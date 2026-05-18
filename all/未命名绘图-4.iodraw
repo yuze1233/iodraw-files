@@ -1004,7 +1004,10 @@
           <mxGeometry x="52" y="5405" width="574" height="424" as="geometry" />
         </mxCell>
         <mxCell id="jIS1suBxpD0xbrfFkaok-3" value="&lt;pre style=&quot;font-style: normal; font-variant: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-size: 13px; line-height: 22px; font-family: Menlo, Monaco, Consolas, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; overflow: auto; white-space: pre-wrap; word-break: break-all; padding: 16px; color: rgb(15, 17, 21); text-align: start; margin: 0px !important;&quot;&gt;  前端层（Vue.js）&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="252" y="5419" width="163" height="60" as="geometry" />
+          <mxGeometry x="245" y="5421" width="163" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jIS1suBxpD0xbrfFkaok-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="137" y="5670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
