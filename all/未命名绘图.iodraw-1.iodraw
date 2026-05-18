@@ -74,7 +74,7 @@
           <mxGeometry x="318" y="368" width="26" height="109" as="geometry" />
         </mxCell>
         <mxCell id="ceMZxPwoTSRZpcFIlL5c-37" value="分页浏览" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="380" y="368" width="26" height="109" as="geometry" />
+          <mxGeometry x="384" y="368" width="26" height="109" as="geometry" />
         </mxCell>
         <mxCell id="ceMZxPwoTSRZpcFIlL5c-38" value="pdf文档单词全局统计" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="435" y="368" width="26" height="109" as="geometry" />
@@ -208,6 +208,9 @@
               <mxPoint x="595" y="352" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-5R-fFn_3Nw0uanpRcGq-0" value="关键词高亮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="368" width="26" height="109" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
